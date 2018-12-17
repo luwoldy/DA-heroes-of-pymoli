@@ -1,0 +1,10 @@
+Trends based on the analysis of the purchasing data for Heroes of Pymoli 
+
+*Males are the majority of the player base at 84% of the population
+*Males also accounted for the majority of the purchases, they brought in $1967 of the total revenue ($2380), about 82% of revenue.
+*Males made 652 purchases of the 780 purchases made (about 84%)
+*The largest age group for the game is in the 20-24 age range, they account for 365 purchases, about 47% of purchases. The next largest age group were the 15-19 year olds accouning for 17% of purchases.
+
+*The most popular item in the game is "Oathbreaker, Last Hope of the Breaking Storm" with 12 purchases. There were several other popular items with over 7-12 purchases. 
+
+Based on this game data it is wise to build the game around males in the 20-24 group. Adding content to the game that they enjoy while motivating them to purchase more frequently. 
